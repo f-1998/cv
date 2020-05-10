@@ -1,0 +1,28 @@
+
+body{
+  background-color: #d3f4ff;
+}
+  hr{
+background-color: #d3f4ff;
+border-style: none;
+border-top: dotted 5px;
+border-color: white;
+height: 50px;
+width: 10%;
+
+      }
+img{
+  height: 200px;
+}
+h1{
+  color: #66BFBF;
+  font-style: italic;
+}
+h3{
+  color: #66BFBF;
+font-family: fangsong;
+}
+
+ .anime{
+   border-radius: 100px;
+ }
